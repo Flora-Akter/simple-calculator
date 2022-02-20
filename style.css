@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(48, 47, 47);
+}
+h1 {  
+    text-align: center;  
+    padding: 23px;  
+    background-color: rgba(24, 16, 34, 0.575);  
+    color: white;  
+    }  
+  
+#clear{  
+width: 270px;  
+border: 3px solid rgb(192, 188, 188);  
+border-radius: 3px;  
+padding: 20px;  
+background-color: rgb(185, 8, 23);  
+}  
+  
+.formstyle  
+{  
+width: 300px;  
+height: 540px;  
+margin: auto;  
+border: 5px solid rgb(174, 175, 175);  
+border-radius: 7px;  
+padding: 20px;  
+}  
+  
+  
+input  
+{  
+width: 15px;  
+background-color: grey;  
+color: black;  
+border: 3px solid gray;  
+border-radius: 5px;  
+padding: 26px;  
+margin: 5px;  
+font-size: 15px; 
+font-weight: 600; 
+}  
+  
+  
+#calc{  
+width: 250px;  
+border: 5px solid black;  
+border-radius: 3px;  
+padding: 20px;  
+margin: auto;  
+}  
